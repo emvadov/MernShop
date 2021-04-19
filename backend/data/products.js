@@ -1,6 +1,5 @@
 const products = [
     {
-        _id: '1',
         name: 'Airpods Wireless Bluetooth Headphones',
         image: '/images/airpods.jpg',
         description:
@@ -14,7 +13,6 @@ const products = [
 
     },
     {
-        _id: '2',
         name: 'iPhone 12 Pro Max 128GB',
         image: '/images/iphone12.jpg',
         description:
@@ -28,7 +26,6 @@ const products = [
 
     },
     {
-        _id: '3',
         name: 'Sony Playstation 5 Digital Edition',
         image: '/images/ps5.jpg',
         description:
@@ -42,7 +39,6 @@ const products = [
 
     },
     {
-        _id: '4',
         name: 'Sony DSLR-A200K 10.2MP Digital Camera',
         image: '/images/dslr-a200k.jpg',
         description:
@@ -56,7 +52,6 @@ const products = [
 
     },
     {
-        _id: '5',
         name: 'Samsung Galaxy S20 128GB',
         image: '/images/galaxys20.jpg',
         description:
@@ -70,7 +65,6 @@ const products = [
 
     },
     {
-        _id: '6',
         name: 'Amazon Fire TV Cube Smart Assistant Alexa',
         image: '/images/firetv.jpg',
         description:
